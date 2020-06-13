@@ -1,9 +1,7 @@
-
 ---
 layout: post
-title: 내 가족 지킴이 개발 향후계획
+title:  "내 가족 지킴이 개발 향후계획"
 date:   2020-06-13 20:00:00
-excerpt: "내 가족 향후 개발계획 및 추가사항을 적어놓은 게시물입니다."
 categories: [Projects]
 comments: true
 ---
