@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "내 가족 지킴이 개발 향후계획"
+excerpt: "내 가족 지킴이 향후 개발 계획 및 UI 디자인"
 date:   2020-06-13 20:00:00
 categories: [Projects]
 comments: true
