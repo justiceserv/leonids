@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+title: justiceserv
+email: justiceserv@justiceserv.dev
+description: 정구현의 개인적인 코딩 블로그입니다. 
+url: #
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Asia/Seoul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: justiceserv
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Student"
+  bio: "제 개인적인 코딩 블로그입니다."
+  email: justiceserv@justiceserv.dev
   disqus-shortname:
-  twitter: #username
+  twitter: R6S_StSinsa
   facebook: #username
   google:
     plus: #username
@@ -48,9 +48,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: justiceserv
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 12413689/justiceserv
   linkedin: #username
   skype: #username
   xing: #username
