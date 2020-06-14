@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "마인크래프트 모드 설치 도움말"
