@@ -9,14 +9,7 @@ comments: true
 
 # 잠깐! 도움말 보기 전에 해피나루!
 
-<iframe
-    src="https://www.twitch.tv/yong2_2/clip/ThirstyPoisedZucchiniBrokeBack?filter=clips&range=7d&sort=time"
-    height="400"
-    width="400"
-    frameborder="0"
-    scrolling="no"
-    allowfullscreen="true">
-</iframe>
+<iframe src="https://player.vimeo.com/video/428957247" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 # 개요
 1. 마인크래프트 포지 설치법
