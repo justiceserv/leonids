@@ -9,7 +9,14 @@ comments: true
 
 # 잠깐! 도움말 보기 전에 해피나루!
 
-[![Video Label](https://i.ibb.co/sHm8Nzj/capture.png)](https://www.twitch.tv/yong2_2/clip/ThirstyPoisedZucchiniBrokeBack?filter=clips&range=7d&sort=time)
+<iframe
+    src="https://www.twitch.tv/yong2_2/clip/ThirstyPoisedZucchiniBrokeBack?filter=clips&range=7d&sort=time"
+    height="400"
+    width="400"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="true">
+</iframe>
 
 # 개요
 1. 마인크래프트 포지 설치법
