@@ -18,7 +18,7 @@ comments: true
 
 설치링크(인스톨러): [http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 
-**설치 방법: **
+### 설치 방법:
 1. Download Latest (Installer) 클릭 
 1-1. 클릭하면 adfoc.us 링크가 뜰텐데 6초 후에 SKIP 버튼 클릭 
 2. 다운로드 받은  forge-1.12.2-14.23.5.2854-installer.jar 클릭 (Java 1.8 이상 필요, 왠만하면 다 있습니다.) 
