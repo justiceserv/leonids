@@ -31,7 +31,7 @@ comments: true
 ## 마인크래프트 모드 설치 방법
 
 ### 만약 자동설치기가 개발이 되었다면
-설치링크: https://s.justiceserv.dev/y2download
+설치링크: [https://s.justiceserv.dev/y2download](https://s.justiceserv.dev/y2download)
 
 편하게 동의 - 확인 눌러주시면 전부 설치가 완료됩니다.
 
