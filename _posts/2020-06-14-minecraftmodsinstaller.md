@@ -7,6 +7,15 @@ categories: [Minecraft]
 comments: true
 ---
 
+<iframe
+    src="https://www.twitch.tv/yong2_2/clip/ThirstyPoisedZucchiniBrokeBack?filter=clips&range=7d&sort=time"
+    height="100"
+    width="600"
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="true">
+</iframe>
+
 # 개요
 1. 마인크래프트 포지 설치법
 2. 마인크래프트 모드 설치방법 
