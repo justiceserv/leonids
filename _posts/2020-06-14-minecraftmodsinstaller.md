@@ -9,9 +9,7 @@ comments: true
 
 # 잠깐! 도움말 보기 전에 해피나루!
 
-<p align="center">
 [![Video Label](https://i.ibb.co/sHm8Nzj/capture.png)](https://www.twitch.tv/yong2_2/clip/ThirstyPoisedZucchiniBrokeBack?filter=clips&range=7d&sort=time)
-</p>
 
 # 개요
 1. 마인크래프트 포지 설치법
