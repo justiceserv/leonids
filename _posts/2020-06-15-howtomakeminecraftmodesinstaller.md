@@ -29,7 +29,7 @@ HM NIS Edit 설치링크: [[https://sourceforge.net/projects/hmne/](https://sour
 
 ## 2. 개발(?)
 
-개발이라 하기에도 뭐할 정도로 쉽습니다. </br> 
+개발이라 하기에도 뭐할 정도로 쉽습니다. 
 <p align="center">
 <img align ="center" src = "https://i.ibb.co/7rZTRpK/1.png">
 </p>
@@ -58,14 +58,14 @@ GUI는 왠만하면 Classic으로 선택해주시고, 압축은 LZMA로 선택�
 <img align ="center" src = "https://i.ibb.co/1fxVhxc/5.png">
 </p>
 
-프로그램 기본 디렉터리는 그대로 냅두시고, 라이선스 파일은 원하시면 만드셔도 됩니다만, </br> 
+프로그램 기본 디렉터리는 그대로 냅두시고, 라이선스 파일은 원하시면 만드셔도 됩니다만, 
 메모장으로 만드실 경우에는 인코딩을 ANSI로 해주셔야합니다. (아니면 한글 깨짐)
 
 <p align="center">
 <img align ="center" src = "https://i.ibb.co/rH55VgH/6.png">
 </p>
 
-원래 파일에 example이 두개 있을텐데 전부 지워주시고, 원하시는 프로그램들로 선택해주세요. </br>
+원래 파일에 example이 두개 있을텐데 전부 지워주시고, 원하시는 프로그램들로 선택해주세요. 
 단, 설치 프로그램이 들어갈 파일과 같은 곳에 넣어주세요. 
 
 <p align="center">
@@ -94,7 +94,8 @@ GUI는 왠만하면 Classic으로 선택해주시고, 압축은 LZMA로 선택�
 
 ## ???: Profit. 
 
-저기서 컴파일 에러가 뜨지 않는다면 성공입니다.  </br>
+저기서 컴파일 에러가 뜨지 않는다면 성공입니다.  
+
 그리고 인스톨러를 넣을 파일을 하나 만드셔서 거기 안에 모드와 다른 것들을 넣으시는 것을 추천드립니다. 
 
 진짜 끝. 
