@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(NSIS) 마인크래프트 모드 자동 설치기 만드는 방법"
+title:  "마인크래프트 모드 자동 설치기 만드는 방법"
 excerpt: "HM NIS Edit과 NSIS를 이용한 자동 설치기 만드는 방법입니다."
 date:   2020-06-15 9:47:00
 categories: [Helping Documents]
