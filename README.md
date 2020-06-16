@@ -1,1 +1,1 @@
-[reyuanz/leonids](https://github.com/reyuanz/leonids) used for making blog, check https://blog.justiceserv.dev/
+[renyuanz/leonids](https://github.com/renyuanz/leonids/) used for making blog, check https://blog.justiceserv.dev/
