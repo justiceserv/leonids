@@ -66,3 +66,11 @@ furniture-6.3.1-1.12.2.jar & Armourers-Workshop-1.12.2-0.49.1.jar & Pam's+Harves
 디스코드: 신사일까요#7777
 
 로 연락주시면 감사드리겠습니다!
+
+<script src="https://utteranc.es/client.js"
+        repo="justiceserv/leonids"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
