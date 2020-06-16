@@ -43,3 +43,11 @@ comments: true
 강남구 CCTV mdb 데이터베이스:
 
 https://www.dropbox.com/s/i0qefipnh9f7j4f/CCTV_Location.mdb?dl=0
+
+<script src="https://utteranc.es/client.js"
+        repo="justiceserv/leonids"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
