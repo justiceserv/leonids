@@ -42,9 +42,9 @@ comments: true
 ### 만약 자동설치기가 개발이 되지 않았다면
 만약 제 역량 부족으로 개발이 되지 않았다면, 수동으로 설치를 하시면 됩니다.
 #### 설치 방법
-1. [https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft")
-[https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod")
-[https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/files/2741765](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/files/2741765)
+1. [하베스트모드 다운로드](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft "https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft")
+[가구모드 다운로드 (커스포지)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod")
+[아머러스 모드 다운로드 (소스포지) ](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/download/2902605)
 세 사이트에서 jar 파일 (모드)를 다운받으세요.
 2. C:\Users\\(컴퓨터 유저네임)\AppData\Roaming\.minecraft\mods
 (한번 forge 설치하고 나서 마인크래프트 실행시켜야 이 파일이 나옵니다.)
