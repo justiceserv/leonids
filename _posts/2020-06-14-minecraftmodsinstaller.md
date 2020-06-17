@@ -46,7 +46,7 @@ comments: true
 [가구모드 다운로드 (커스포지)](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod")  
 [아머러스 모드 다운로드 (소스포지) ](https://www.curseforge.com/minecraft/mc-mods/armourers-workshop/download/2902605)  
 세 사이트에서 jar 파일 (모드)를 다운받으세요.
-2. C:\Users\\(컴퓨터 유저네임)\AppData\Roaming\\.minecraft\mods
+2. %APPDATA%\.minecraft\mods
 (한번 forge 설치하고 나서 마인크래프트 실행시켜야 이 파일이 나옵니다.)
 3. 위에 다운받았던 두 jar 파일을 mods로 이동
 파일 이름:
