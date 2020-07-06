@@ -13,7 +13,7 @@ comments: true
 
 ## 필요한 파일!
 
-- java jre 1.8 이상! (없으신 분들만 - [다운로드 클릭](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html#license-lightbox))
+- java jre 1.8 이상! (없으신 분들만(Windows x64 Installer) 다운로드 받으시면 됩니다 - [다운로드 클릭](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html#license-lightbox))
 - 모드 첨부파일([다운로드 클릭](https://www.dropbox.com/s/ec94qn6be5b1zg1/yong2_2mode.zip?dl=1), 받으신 후에 꼭 압축을 풀어주세요!)
 - 마인크래프트 Forge 1.12.2 버젼 ([다운로드 클릭](https://www.dropbox.com/s/kv3g3uvw7culi63/forge-1.12.2-14.23.5.2854-installer.jar?dl=1))
 - 마인크래프트 1.12.2
